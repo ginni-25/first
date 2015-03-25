@@ -11,3 +11,9 @@ Institute (ANSI) is a token passing ring network that operates at 100 Mb/s on op
 fiber-medium. Its medium access control approach has close similarity with the IEEE
 802.5 standard, but certain features have been added to it for higher reliability and better
 performance. Key features of FDDI are outlined in this section
+The FDDI standard divides transmission functions into 4 protocols: physical
+medium dependent (PMD), Physical (PHY), media access control(MAC) and Logical
+link control(LLC) as shown in Fig. 5.5.1. These protocols correspond to the physical and
+data link layer of OSI reference model. Apart from these four protocols, one more
+protocol which span across both data link and physical layer (if considered of OSI), used
+for the station management.
