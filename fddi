@@ -6,3 +6,8 @@ new applications, particularly based on multimedia, there is a growing demand fo
 network bandwidth. The combined effect of the growth in the number of users and
 increasing bandwidth requirement per user has led to the development of High Speed
 LANs with data transfer rate of 100 Mb/s or more.
+Fiber Distributed Data Interface (FDDI), developed by American National Standards
+Institute (ANSI) is a token passing ring network that operates at 100 Mb/s on optical
+fiber-medium. Its medium access control approach has close similarity with the IEEE
+802.5 standard, but certain features have been added to it for higher reliability and better
+performance. Key features of FDDI are outlined in this section
