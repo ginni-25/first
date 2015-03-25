@@ -1,0 +1,8 @@
+ Introduction
+The IEEE 802.3 and 802.5 LANs, discussed in the previous sections, having data transfer
+rate in the range of 10 Mb/s to 16 Mb/s have served the purpose very well for many
+years. But with the availability of powerful computers at a low cost and emergence of
+new applications, particularly based on multimedia, there is a growing demand for higher
+network bandwidth. The combined effect of the growth in the number of users and
+increasing bandwidth requirement per user has led to the development of High Speed
+LANs with data transfer rate of 100 Mb/s or more.
